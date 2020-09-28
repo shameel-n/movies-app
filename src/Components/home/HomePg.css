@@ -1,0 +1,22 @@
+.magic {
+  text-align: left;
+  color: lightseagreen;
+  font-size: 30px;
+  font-family: Cream candy;
+  padding-left: 190px;
+}
+.bttn {
+  padding-left: 190px;
+}
+
+.head {
+  text-align: center;
+  align-items: center;
+  color: firebrick;
+  padding: 10px;
+  font-size: 100px;
+  font-family: Aerotis;
+  font-weight: 50px;
+  font-style: italic;
+  text-shadow: 2px 2px #4e434e;
+}
